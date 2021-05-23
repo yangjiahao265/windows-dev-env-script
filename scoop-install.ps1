@@ -5,8 +5,7 @@
 # changeExecPolicy 
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
-
-# setupAppInstallPath 
+# setupAppInstallPath
 [string]$ScoopLocalInstallPath = Read-Host "请输入Scoop应用本地安装目录(直接回车设置默认目录)"
 if ($ScoopLocalInstallPath) {
     $env:SCOOP = $ScoopLocalInstallPath

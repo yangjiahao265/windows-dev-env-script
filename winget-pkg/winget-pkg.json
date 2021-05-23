@@ -1,50 +1,48 @@
 {
-	"$schema" : "https://aka.ms/winget-packages.schema.1.0.json",
-	"CreationDate" : "2021-05-20T02:13:10.358-00:00",
-	"Sources" : 
-	[
-		{
-			"Packages" : 
-			[
-				{
-					"Id" : "Microsoft.Whiteboard"
-				}
-			],
-			"SourceDetails" : 
-			{
-				"Argument" : "https://winget.azureedge.net/msstore",
-				"Identifier" : "Microsoft.Winget.MSStore.Source_8wekyb3d8bbwe",
-				"Name" : "msstore",
-				"Type" : "Microsoft.PreIndexed.Package"
-			}
-		},
-		{
-			"Packages" : 
-			[
-				{
-					"Id" : "Microsoft.WindowsTerminalPreview"
-				},
-				{
-					"Id" : "Microsoft.WindowsTerminal"
-				},
-				{
-					"Id" : "Microsoft.PowerShell"
-				},
-				{
-					"Id" : "Oracle.MySQL"
-				},
-				{
-					"Id" : "Docker.DockerDesktop"
-				}
-			],
-			"SourceDetails" : 
-			{
-				"Argument" : "https://winget.azureedge.net/cache",
-				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
-				"Name" : "winget",
-				"Type" : "Microsoft.PreIndexed.Package"
-			}
-		}
-	],
-	"WinGetVersion" : "0.3.11201"
+  "$schema": "https://aka.ms/winget-packages.schema.1.0.json",
+  "CreationDate": "2021-05-20T02:13:10.358-00:00",
+  "Sources": [
+    {
+      "Packages": [
+        {
+          "Id": "Microsoft.Whiteboard"
+        }
+      ],
+      "SourceDetails": {
+        "Argument": "https://winget.azureedge.net/msstore",
+        "Identifier": "Microsoft.Winget.MSStore.Source_8wekyb3d8bbwe",
+        "Name": "msstore",
+        "Type": "Microsoft.PreIndexed.Package"
+      }
+    },
+    {
+      "Packages": [
+        {
+          "Id": "Microsoft.WindowsTerminalPreview"
+        },
+        {
+          "Id": "Microsoft.WindowsTerminal"
+        },
+        {
+          "Id": "Microsoft.PowerShell"
+        },
+        {
+          "Id": "Oracle.MySQL"
+        },
+        {
+          "Id": "Docker.DockerDesktop"
+        },
+        {
+          "Id": "Git.Git"
+        }
+      ],
+      "SourceDetails": {
+        "Argument": "https://winget.azureedge.net/cache",
+        "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+        "Name": "winget",
+        "Type": "Microsoft.PreIndexed.Package"
+      }
+    }
+  ],
+  "WinGetVersion": "0.3.11201"
 }
