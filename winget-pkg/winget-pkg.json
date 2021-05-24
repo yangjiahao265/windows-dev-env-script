@@ -36,13 +36,37 @@
           "Id": "Git.Git"
         },
         {
-          "Id" : "Microsoft.VisualStudioCode"
+          "Id": "Microsoft.VisualStudioCode"
         },
         {
-          "Id" : "tencent.wechat-devtool"
+          "Id": "tencent.wechat-devtool"
         },
         {
-          "Id" : "Oracle.VirtualBox"
+          "Id": "Oracle.VirtualBox"
+        },
+        {
+          "Id": "TortoiseGit.TortoiseGit"
+        },
+        {
+          "Id": "Google.Chrome"
+        },
+        {
+          "Id": "Google.ChromeDev"
+        },
+        {
+          "Id": "Hashicorp.Vagrant"
+        },
+        {
+          "Id": "Microsoft.PowerToys"
+        },
+        {
+          "Id": "Microsoft.OneDrive"
+        },
+        {
+          "Id": "Daum.Potplayer"
+        },
+        {
+          "Id": "voidtools.Everything"
         }
       ],
       "SourceDetails": {
