@@ -18,7 +18,7 @@
     {
       "Packages": [
         {
-          "Id": "Microsoft.WindowsTerminalPreview"
+          "Id": "Microsoft.VisualStudio.2019.Community"
         },
         {
           "Id": "Microsoft.WindowsTerminal"
@@ -34,6 +34,15 @@
         },
         {
           "Id": "Git.Git"
+        },
+        {
+          "Id" : "Microsoft.VisualStudioCode"
+        },
+        {
+          "Id" : "tencent.wechat-devtool"
+        },
+        {
+          "Id" : "Oracle.VirtualBox"
         }
       ],
       "SourceDetails": {

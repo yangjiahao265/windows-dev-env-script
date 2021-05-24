@@ -67,6 +67,9 @@
       "BucketName": "main",
       "RemoteUrl": "https://github.com/ScoopInstaller/Main",
       "Apps": {
+        "gh": {
+          "Arch": "64bit"
+        },
         "gradle": {
           "Arch": "64bit"
         },
@@ -169,6 +172,9 @@
       "BucketName": "extras",
       "RemoteUrl": "https://github.com/lukesampson/scoop-extras",
       "Apps": {
+        "github": {
+          "Arch": "64bit"
+        },
         "notepadplusplus": {
           "Arch": "64bit"
         },

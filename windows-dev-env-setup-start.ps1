@@ -10,5 +10,5 @@ PING.EXE raw.githubusercontent.com
 # 安装Scoop
 . "$psscriptroot/scoop-install.ps1"
 # 配置Scoop
-#. "$psscriptroot/scoop-setup.ps1"
+. "$psscriptroot/scoop-setup.ps1"
 
