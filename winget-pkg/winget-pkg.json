@@ -67,7 +67,17 @@
         },
         {
           "Id": "voidtools.Everything"
+        },
+        {
+          "Id": "Tencent.QQ"
+        },
+        {
+          "Id": "Tencent.WeChat"
+        },
+        {
+          "Id": "Tencent.wechat-work"
         }
+
       ],
       "SourceDetails": {
         "Argument": "https://winget.azureedge.net/cache",
