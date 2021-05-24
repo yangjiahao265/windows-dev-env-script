@@ -79,8 +79,10 @@
         },
         {
           "Id": "Tencent.wechat-work"
+        },
+        {
+          "Id": "VMware.WorkstationPro"
         }
-
       ],
       "SourceDetails": {
         "Argument": "https://winget.azureedge.net/cache",
