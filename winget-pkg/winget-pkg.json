@@ -18,6 +18,9 @@
     {
       "Packages": [
         {
+          "Id": "JetBrains.Toolbox"
+        },
+        {
           "Id": "Microsoft.VisualStudio.2019.Community"
         },
         {
