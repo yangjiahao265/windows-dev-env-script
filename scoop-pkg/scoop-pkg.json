@@ -270,9 +270,9 @@
         }
       }
     },
-    "https://github.com/yangjiahao265/scoop-personal-bucket.git": {
+    "https://github.com/yangjiahao265/scoop-personal-bucket": {
       "BucketName": "scoop-personal-bucket",
-      "RemoteUrl": "https://github.com/yangjiahao265/scoop-personal-bucket.git",
+      "RemoteUrl": "https://github.com/yangjiahao265/scoop-personal-bucket",
       "Apps": {
         "scoop-alias": {
           "Arch": "64bit"
