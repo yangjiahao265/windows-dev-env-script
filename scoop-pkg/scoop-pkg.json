@@ -10,15 +10,6 @@
         }
       }
     },
-    "https://github.com/prezesp/scoop-viewer-bucket.git": {
-      "BucketName": "scoop-viewer-bucket",
-      "RemoteUrl": "https://github.com/prezesp/scoop-viewer-bucket.git",
-      "Apps": {
-        "scoop-viewer": {
-          "Arch": "64bit"
-        }
-      }
-    },
     "https://github.com/Ash258/Scoop-Ash258.git": {
       "BucketName": "Ash258",
       "RemoteUrl": "https://github.com/Ash258/Scoop-Ash258.git",
@@ -63,11 +54,32 @@
         }
       }
     },
+    "https://github.com/TheCjw/scoop-retools.git": {
+      "BucketName": "retools",
+      "RemoteUrl": "https://github.com/TheCjw/scoop-retools.git",
+      "Apps": {
+        "dex2jar": {
+          "Arch": "64bit"
+        },
+        "bytecode-viewer": {
+          "Arch": "64bit"
+        }
+      }
+    },
     "https://github.com/ScoopInstaller/Main": {
       "BucketName": "main",
       "RemoteUrl": "https://github.com/ScoopInstaller/Main",
       "Apps": {
         "gh": {
+          "Arch": "64bit"
+        },
+        "adb": {
+          "Arch": "64bit"
+        },
+        "apktool": {
+          "Arch": "64bit"
+        },
+        "dirhash": {
           "Arch": "64bit"
         },
         "gradle": {
@@ -127,9 +139,6 @@
         "cygwin": {
           "Arch": "64bit"
         },
-        "jabba": {
-          "Arch": "64bit"
-        },
         "nmap-portable": {
           "Arch": "64bit"
         }
@@ -164,6 +173,9 @@
           "Arch": "64bit"
         },
         "another-redis-desktop-manager": {
+          "Arch": "64bit"
+        },
+        "jd-gui": {
           "Arch": "64bit"
         }
       }
@@ -216,6 +228,9 @@
         },
         "wireshark": {
           "Arch": "64bit"
+        },
+        "jadx": {
+          "Arch": "64bit"
         }
       }
     },
@@ -230,15 +245,6 @@
           "Arch": "64bit"
         },
         "graalvm-jdk11": {
-          "Arch": "64bit"
-        }
-      }
-    },
-    "https://github.com/yangjiahao265/cologler-scoop-bucket": {
-      "BucketName": "cologler",
-      "RemoteUrl": "https://github.com/yangjiahao265/cologler-scoop-bucket",
-      "Apps": {
-        "scoop-backup": {
           "Arch": "64bit"
         }
       }
@@ -264,11 +270,17 @@
         }
       }
     },
-    "https://github.com/snaphat/alias-additions.git": {
-      "BucketName": "alias-additions",
-      "RemoteUrl": "https://github.com/snaphat/alias-additions.git",
+    "https://github.com/yangjiahao265/scoop-personal-bucket.git": {
+      "BucketName": "scoop-personal-bucket",
+      "RemoteUrl": "https://github.com/yangjiahao265/scoop-personal-bucket.git",
       "Apps": {
-        "alias-additions": {
+        "scoop-alias": {
+          "Arch": "64bit"
+        },
+        "jabba": {
+          "Arch": "64bit"
+        },
+        "scoop-backup": {
           "Arch": "64bit"
         }
       }
