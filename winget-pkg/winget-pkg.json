@@ -1,96 +1,105 @@
 {
-  "$schema": "https://aka.ms/winget-packages.schema.1.0.json",
-  "CreationDate": "2021-05-20T02:13:10.358-00:00",
-  "Sources": [
-    {
-      "Packages": [
-        {
-          "Id": "Microsoft.Whiteboard"
-        }
-      ],
-      "SourceDetails": {
-        "Argument": "https://winget.azureedge.net/msstore",
-        "Identifier": "Microsoft.Winget.MSStore.Source_8wekyb3d8bbwe",
-        "Name": "msstore",
-        "Type": "Microsoft.PreIndexed.Package"
-      }
-    },
-    {
-      "Packages": [
-        {
-          "Id": "JetBrains.Toolbox"
-        },
-        {
-          "Id": "Microsoft.VisualStudio.2019.Community"
-        },
-        {
-          "Id": "Microsoft.WindowsTerminal"
-        },
-        {
-          "Id": "Microsoft.PowerShell"
-        },
-        {
-          "Id": "Oracle.MySQL"
-        },
-        {
-          "Id": "Docker.DockerDesktop"
-        },
-        {
-          "Id": "Git.Git"
-        },
-        {
-          "Id": "Microsoft.VisualStudioCode"
-        },
-        {
-          "Id": "tencent.wechat-devtool"
-        },
-        {
-          "Id": "Oracle.VirtualBox"
-        },
-        {
-          "Id": "TortoiseGit.TortoiseGit"
-        },
-        {
-          "Id": "Google.Chrome"
-        },
-        {
-          "Id": "Google.ChromeDev"
-        },
-        {
-          "Id": "Hashicorp.Vagrant"
-        },
-        {
-          "Id": "Microsoft.PowerToys"
-        },
-        {
-          "Id": "Microsoft.OneDrive"
-        },
-        {
-          "Id": "Daum.Potplayer"
-        },
-        {
-          "Id": "voidtools.Everything"
-        },
-        {
-          "Id": "Tencent.QQ"
-        },
-        {
-          "Id": "Tencent.WeChat"
-        },
-        {
-          "Id": "Tencent.wechat-work"
-        },
-        {
-          "Id": "VMware.WorkstationPro"
-        }
-      ],
-      "SourceDetails": {
-        "Argument": "https://winget.azureedge.net/cache",
-        "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
-        "Name": "winget",
-        "Type": "Microsoft.PreIndexed.Package"
-      }
-    }
-  ],
-  "WinGetVersion": "0.3.11201"
+	"$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate": "2021-05-25T11:54:51.698-00:00",
+	"Sources": [
+		{
+			"Packages": [
+				{
+					"PackageIdentifier": "JetBrains.Toolbox"
+				},
+				{
+					"PackageIdentifier": "Tencent.QQ"
+				},
+				{
+					"PackageIdentifier": "Tencent.WeChat"
+				},
+				{
+					"PackageIdentifier": "Tencent.wechat-work"
+				},
+				{
+					"PackageIdentifier": "VMware.WorkstationPro"
+				},
+				{
+					"PackageIdentifier": "tencent.wechat-devtool"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VisualStudio.2019.Community"
+				},
+				{
+					"PackageIdentifier": "Docker.DockerDesktop"
+				},
+				{
+					"PackageIdentifier": "voidtools.Everything"
+				},
+				{
+					"PackageIdentifier": "Git.Git"
+				},
+				{
+					"PackageIdentifier": "Google.Chrome"
+				},
+				{
+					"PackageIdentifier": "Microsoft.Edge"
+				},
+				{
+					"PackageIdentifier": "Microsoft.webview2-evergreen"
+				},
+				{
+					"PackageIdentifier": "Microsoft.WindowsTerminal"
+				},
+				{
+					"PackageIdentifier": "Microsoft.OneDrive"
+				},
+				{
+					"PackageIdentifier": "Daum.Potplayer"
+				},
+				{
+					"PackageIdentifier": "RARLab.WinRAR"
+				},
+				{
+					"PackageIdentifier": "Microsoft.PowerToys"
+				},
+				{
+					"PackageIdentifier": "Hashicorp.Vagrant"
+				},
+				{
+					"PackageIdentifier": "Google.ChromeDev"
+				},
+				{
+					"PackageIdentifier": "TortoiseGit.TortoiseGit"
+				},
+				{
+					"PackageIdentifier": "Oracle.VirtualBox"
+				},
+				{
+					"PackageIdentifier": "Microsoft.PowerShell"
+				},
+				{
+					"PackageIdentifier": "Oracle.MySQL"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VisualStudioCode"
+				}
+			],
+			"SourceDetails": {
+				"Argument": "https://winget.azureedge.net/cache",
+				"Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name": "winget",
+				"Type": "Microsoft.PreIndexed.Package"
+			}
+		},
+		{
+			"Packages": [
+				{
+					"PackageIdentifier": "Microsoft.Whiteboard"
+				}
+			],
+			"SourceDetails": {
+				"Argument": "https://winget.azureedge.net/msstore",
+				"Identifier": "Microsoft.Winget.MSStore.Source_8wekyb3d8bbwe",
+				"Name": "msstore",
+				"Type": "Microsoft.PreIndexed.Package"
+			}
+		}
+	],
+	"WinGetVersion": "0.4.11391"
 }
