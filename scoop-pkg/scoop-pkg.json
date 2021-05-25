@@ -282,6 +282,15 @@
         },
         "scoop-backup": {
           "Arch": "64bit"
+        },
+        "idm": {
+          "Arch": "64bit"
+        },
+        "hbuilderx": {
+          "Arch": "64bit"
+        },
+        "ant": {
+          "Arch": "64bit"
         }
       }
     },
