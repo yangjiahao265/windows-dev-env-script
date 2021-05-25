@@ -70,6 +70,9 @@
       "BucketName": "main",
       "RemoteUrl": "https://github.com/ScoopInstaller/Main",
       "Apps": {
+        "git": {
+          "Arch": "64bit"
+        },
         "gh": {
           "Arch": "64bit"
         },
