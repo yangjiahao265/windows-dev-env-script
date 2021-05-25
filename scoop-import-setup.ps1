@@ -1,4 +1,4 @@
 
-scoop bucket add cologler https://github.com/yangjiahao265/cologler-scoop-bucket
+scoop bucket add scoop-personal-bucket https://github.com/yangjiahao265/scoop-personal-bucket
 
 scoop install scoop-backup

@@ -1,4 +1,5 @@
-scoop config proxy $env:http_proxy
+# scoop config proxy $env:http_proxy
+scoop config proxy 127.0.0.1:7890
 
 # 预安装必要软件
 scoop install sudo 7zip git aria2
