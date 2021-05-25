@@ -1,1 +1,2 @@
-scoop install winget
+scoop uninstall winget
+scoop install -s winget
