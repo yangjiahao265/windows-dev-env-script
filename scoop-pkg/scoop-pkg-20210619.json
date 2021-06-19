@@ -1,0 +1,495 @@
+{
+  "NoBucketApps": {
+    "nmap": {
+      "Url": "D:\\Applications\\Scoop\\workspace\\nmap.json",
+      "Arch": "64bit"
+    }
+  },
+  "Version": 1,
+  "Buckets": {
+    "https://github.com/lukesampson/scoop-extras": {
+      "Apps": {
+        "notepadplusplus": {
+          "Arch": "64bit"
+        },
+        "typora": {
+          "Arch": "64bit"
+        },
+        "windows-terminal": {
+          "Arch": "64bit"
+        },
+        "sysinternals": {
+          "Arch": "64bit"
+        },
+        "inno-script-studio": {
+          "Arch": "64bit"
+        },
+        "lxrunoffline": {
+          "Arch": "64bit"
+        },
+        "snipaste": {
+          "Arch": "64bit"
+        },
+        "sublime-text": {
+          "Arch": "64bit"
+        },
+        "inno-setup": {
+          "Arch": "64bit"
+        },
+        "googlechrome-portable": {
+          "Arch": "64bit"
+        },
+        "crystaldiskmark": {
+          "Arch": "64bit"
+        },
+        "rufus": {
+          "Arch": "64bit"
+        },
+        "potplayer": {
+          "Arch": "64bit"
+        },
+        "jadx": {
+          "Arch": "64bit"
+        },
+        "sts": {
+          "Arch": "64bit"
+        },
+        "springboot": {
+          "Arch": "64bit"
+        },
+        "vcredist2012": {
+          "Arch": "64bit"
+        },
+        "github": {
+          "Arch": "64bit"
+        },
+        "gtools": {
+          "Arch": "64bit"
+        },
+        "postman": {
+          "Arch": "64bit"
+        },
+        "vcredist2008": {
+          "Arch": "64bit"
+        },
+        "vagrant-manager": {
+          "Arch": "64bit"
+        },
+        "rapidee": {
+          "Arch": "64bit"
+        },
+        "sublime-merge": {
+          "Arch": "64bit"
+        },
+        "jetbrains-toolbox": {
+          "Arch": "64bit"
+        },
+        "winrar": {
+          "Arch": "64bit"
+        },
+        "find-java": {
+          "Arch": "64bit"
+        },
+        "geekuninstaller": {
+          "Arch": "64bit"
+        },
+        "win-dynamic-desktop": {
+          "Arch": "64bit"
+        },
+        "fiddler": {
+          "Arch": "64bit"
+        },
+        "vcredist2019": {
+          "Arch": "64bit"
+        },
+        "everything": {
+          "Arch": "64bit"
+        },
+        "wireshark": {
+          "Arch": "64bit"
+        }
+      },
+      "RemoteUrl": "https://github.com/lukesampson/scoop-extras",
+      "BucketName": "extras"
+    },
+    "https://github.com/yangjiahao265/scoop-personal-bucket": {
+      "Apps": {
+        "navicat": {
+          "Arch": "64bit"
+        },
+        "devsidecar": {
+          "Arch": "64bit"
+        },
+        "sakurafrpc": {
+          "Arch": "64bit"
+        },
+        "choco": {
+          "Arch": "64bit"
+        },
+        "ant": {
+          "Arch": "64bit"
+        },
+        "idm": {
+          "Arch": "64bit"
+        },
+        "jabba": {
+          "Arch": "64bit"
+        },
+        "softmgr": {
+          "Arch": "64bit"
+        },
+        "windwos-intercepter": {
+          "Arch": "64bit"
+        },
+        "scoop-alias": {
+          "Arch": "64bit"
+        },
+        "hbuilderx": {
+          "Arch": "64bit"
+        },
+        "scoop-backup": {
+          "Arch": "64bit"
+        },
+        "beyondcompare": {
+          "Arch": "64bit"
+        },
+        "mychrome": {
+          "Arch": "64bit"
+        }
+      },
+      "RemoteUrl": "https://github.com/yangjiahao265/scoop-personal-bucket",
+      "BucketName": "scoop-personal-bucket"
+    },
+    "https://github.com/kkzzhizhou/scoop-zapps.git": {
+      "Apps": {
+        "Sandboxie": {
+          "Arch": "64bit"
+        },
+        "ZY-Player": {
+          "Arch": "64bit"
+        },
+        "Xshell": {
+          "Arch": "64bit"
+        },
+        "ThunderS": {
+          "Arch": "64bit"
+        },
+        "officetool-dotnet": {
+          "Arch": "64bit"
+        },
+        "SecureCRT": {
+          "Arch": "64bit"
+        },
+        "Xftp": {
+          "Arch": "64bit"
+        },
+        "SogouPinyin-Portable": {
+          "Arch": "64bit"
+        },
+        "ThunderSpeed": {
+          "Arch": "64bit"
+        },
+        "sdkman": {
+          "Arch": "64bit"
+        },
+        "officetool": {
+          "Arch": "64bit"
+        },
+        "360Chrome": {
+          "Arch": "64bit"
+        }
+      },
+      "RemoteUrl": "https://github.com/kkzzhizhou/scoop-zapps.git",
+      "BucketName": "scoop-zapps"
+    },
+    "https://github.com/chawyehsu/dorado": {
+      "Apps": {
+        "autodarkmode": {
+          "Arch": "64bit"
+        },
+        "qbittorrent-enhanced": {
+          "Arch": "64bit"
+        },
+        "trafficmonitor": {
+          "Arch": "64bit"
+        },
+        "speedtest-cli": {
+          "Arch": "64bit"
+        },
+        "another-redis-desktop-manager": {
+          "Arch": "64bit"
+        },
+        "jd-gui": {
+          "Arch": "64bit"
+        },
+        "utools": {
+          "Arch": "64bit"
+        },
+        "centbrowser": {
+          "Arch": "64bit"
+        },
+        "wechatdevtools": {
+          "Arch": "64bit"
+        },
+        "clash-for-windows": {
+          "Arch": "64bit"
+        },
+        "notion": {
+          "Arch": "64bit"
+        }
+      },
+      "RemoteUrl": "https://github.com/chawyehsu/dorado",
+      "BucketName": "dorado"
+    },
+    "https://github.com/Velgus/Scoop-Portapps.git": {
+      "Apps": {
+        "oraclejdk8-portapps": {
+          "Arch": "64bit"
+        },
+        "oraclejdk11-portapps": {
+          "Arch": "64bit"
+        }
+      },
+      "RemoteUrl": "https://github.com/Velgus/Scoop-Portapps.git",
+      "BucketName": "Portapps"
+    },
+    "https://github.com/athrunsun/scoop-bucket.git": {
+      "Apps": {
+        "gvm": {
+          "Arch": "64bit"
+        }
+      },
+      "RemoteUrl": "https://github.com/athrunsun/scoop-bucket.git",
+      "BucketName": "scoop-bucket"
+    },
+    "https://github.com/matthewjberger/scoop-nerd-fonts": {
+      "Apps": {
+        "JetBrainsMono-NF": {
+          "Arch": "64bit"
+        },
+        "JetBrains-Mono": {
+          "Arch": "64bit"
+        },
+        "DejaVuSansMono-NF": {
+          "Arch": "64bit"
+        }
+      },
+      "RemoteUrl": "https://github.com/matthewjberger/scoop-nerd-fonts",
+      "BucketName": "nerd-fonts"
+    },
+    "https://github.com/Ash258/Scoop-JetBrains": {
+      "Apps": {
+        "JBHub": {
+          "Arch": "64bit"
+        }
+      },
+      "RemoteUrl": "https://github.com/Ash258/Scoop-JetBrains",
+      "BucketName": "jetbrains"
+    },
+    "https://github.com/ScoopInstaller/Versions": {
+      "Apps": {
+        "tomcat8": {
+          "Arch": "64bit"
+        }
+      },
+      "RemoteUrl": "https://github.com/ScoopInstaller/Versions",
+      "BucketName": "versions"
+    },
+    "https://github.com/TheCjw/scoop-retools.git": {
+      "Apps": {
+        "bytecode-viewer": {
+          "Arch": "64bit"
+        },
+        "dex2jar": {
+          "Arch": "64bit"
+        }
+      },
+      "RemoteUrl": "https://github.com/TheCjw/scoop-retools.git",
+      "BucketName": "retools"
+    },
+    "https://github.com/Paxxs/Cluttered-bucket.git": {
+      "BucketName": "MorFans-apt",
+      "RemoteUrl": "https://github.com/Paxxs/Cluttered-bucket.git"
+    },
+    "https://github.com/ScoopInstaller/Main": {
+      "Apps": {
+        "dark": {
+          "Arch": "64bit"
+        },
+        "nmap-portable": {
+          "Arch": "64bit"
+        },
+        "cygwin": {
+          "Arch": "64bit"
+        },
+        "dirhash": {
+          "Arch": "64bit"
+        },
+        "innounp": {
+          "Arch": "64bit"
+        },
+        "aria2": {
+          "Arch": "64bit"
+        },
+        "cmake": {
+          "Arch": "64bit"
+        },
+        "curl": {
+          "Arch": "64bit"
+        },
+        "mysql": {
+          "Arch": "64bit"
+        },
+        "go": {
+          "Arch": "64bit"
+        },
+        "concfg": {
+          "Arch": "64bit"
+        },
+        "redis5": {
+          "Arch": "64bit"
+        },
+        "busybox": {
+          "Arch": "64bit"
+        },
+        "proxychains": {
+          "Arch": "64bit"
+        },
+        "adb": {
+          "Arch": "64bit"
+        },
+        "maven": {
+          "Arch": "64bit"
+        },
+        "7zip": {
+          "Arch": "64bit"
+        },
+        "dotnet-sdk": {
+          "Arch": "64bit"
+        },
+        "youtube-dl": {
+          "Arch": "64bit"
+        },
+        "psutils": {
+          "Arch": "64bit"
+        },
+        "vagrant": {
+          "Arch": "64bit"
+        },
+        "git": {
+          "Arch": "64bit"
+        },
+        "lessmsi": {
+          "Arch": "64bit"
+        },
+        "docker-compose": {
+          "Arch": "64bit"
+        },
+        "pyenv": {
+          "Arch": "64bit"
+        },
+        "vim": {
+          "Arch": "64bit"
+        },
+        "nvm": {
+          "Arch": "64bit"
+        },
+        "gh": {
+          "Arch": "64bit"
+        },
+        "gradle": {
+          "Arch": "64bit"
+        },
+        "apktool": {
+          "Arch": "64bit"
+        },
+        "sudo": {
+          "Arch": "64bit"
+        },
+        "colortool": {
+          "Arch": "64bit"
+        }
+      },
+      "RemoteUrl": "https://github.com/ScoopInstaller/Main",
+      "BucketName": "main"
+    },
+    "https://github.com/ScoopInstaller/Java": {
+      "Apps": {
+        "graalvm-jdk8": {
+          "Arch": "64bit"
+        },
+        "graalvm-jdk11": {
+          "Arch": "64bit"
+        },
+        "openjdk11": {
+          "Arch": "64bit"
+        }
+      },
+      "RemoteUrl": "https://github.com/ScoopInstaller/Java",
+      "BucketName": "java"
+    },
+    "https://github.com/Ash258/Scoop-Ash258.git": {
+      "Apps": {
+        "oh-my-posh": {
+          "Arch": "64bit"
+        },
+        "ReduceMemory": {
+          "Arch": "64bit"
+        },
+        "DefenderInjector": {
+          "Arch": "64bit"
+        },
+        "pwsh": {
+          "Arch": "64bit"
+        },
+        "docker": {
+          "Arch": "64bit"
+        },
+        "WindowsTerminal-preview": {
+          "Arch": "64bit"
+        },
+        "RunAsTool": {
+          "Arch": "64bit"
+        },
+        "DefenderControl": {
+          "Arch": "64bit"
+        },
+        "winget": {
+          "Arch": "64bit"
+        },
+        "KMS": {
+          "Arch": "64bit"
+        }
+      },
+      "RemoteUrl": "https://github.com/Ash258/Scoop-Ash258.git",
+      "BucketName": "Ash258"
+    },
+    "https://github.com/TheRandomLabs/scoop-nonportable": {
+      "Apps": {
+        "lantern-np": {
+          "Arch": "64bit"
+        },
+        "powertoys-np": {
+          "Arch": "64bit"
+        },
+        "virtualbox-with-extension-pack-np": {
+          "Arch": "64bit"
+        }
+      },
+      "RemoteUrl": "https://github.com/TheRandomLabs/scoop-nonportable",
+      "BucketName": "nonportable"
+    },
+    "https://github.com/echoiron/echo-scoop": {
+      "Apps": {
+        "xyplorer": {
+          "Arch": "64bit"
+        },
+        "ccleaner": {
+          "Arch": "64bit"
+        }
+      },
+      "RemoteUrl": "https://github.com/echoiron/echo-scoop",
+      "BucketName": "echo"
+    }
+  }
+}
